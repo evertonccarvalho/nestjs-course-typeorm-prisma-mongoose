@@ -6,5 +6,5 @@ export default {
   },
   collectCoverageFrom: ['**/*.(t|j)s'],
   coverageDirectory: '../coverage',
-  testEnviroment: 'node',
+  testEnvironment: 'node',
 };
